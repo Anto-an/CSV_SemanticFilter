@@ -15,6 +15,7 @@ This repository contains the source code and technical report accompanying our *
 | `utils/`    | Helper functions and utilities       |
 | `data/`     | Benchmark datasets                   |
 | `README.md` | Project documentation                |
+| `TR.pdf`    | Technical Report                     |
 
 ## Set up
 
